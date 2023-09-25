@@ -4,10 +4,11 @@ body{
 #banner {
     width: 100%;
 }
-h1{
+.principal
+p {
     text-align: center;
 }
-p {
+em strong {
     text-align: center;
 }
 #missao {
